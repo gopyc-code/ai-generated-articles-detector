@@ -34,5 +34,3 @@ Dataset preprocessing shows average text length ~140 words, with values ranging 
 ### Repository structure
 - **solution.ipynb** – Jupyter Notebook with full pipeline: data loading, preprocessing, model training, evaluation.  
 - **[best_bert_binary.pt](https://mega.nz/file/ujZgkBBZ#wKmEORQ2hekdeIAYM2eXL6yEF88zzxt8uNnY9tUYly0)** – Saved weights of the best fine-tuned BERT model.  
-- **sample_submission.csv** – Example submission file from Kaggle competition.  
-```
