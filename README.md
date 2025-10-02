@@ -28,7 +28,7 @@ Dataset preprocessing shows average text length ~140 words, with values ranging 
 - **Validation**: 80/20 stratified split of train data.  
 - **Metrics**: F1-score, precision, recall, confusion matrix.  
 - **Results**:  
-  - Validation F1: ~0.99 after 5 epochs (1 hour of training).
+  - Validation F1: ~0.99 after 5 epochs (1 hour of T4 GPU runtime).
   - Test F1: ~0.99 (excellent precision and recall).  
 
 ### Repository structure
